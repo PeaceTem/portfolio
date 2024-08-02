@@ -53,7 +53,7 @@ export default async function Project() {
     <section>
         <div className="flex items-start justify-between text-slate-800">
         <div className="container mx-auto p-4">
-            <h1 className="text-2xl font-bold mb-4">My Projects</h1>
+            <h1 className="text-2xl font-bold mb-4">My Latest Projects</h1>
             <ul className="flex flex-wrap items-start justify-between w-full">
                 {projects.map((project: any) => (
                 <li key={project.id} className="mb-2 p-2 px-4 rounded  w-1/3">
