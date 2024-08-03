@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <>
+    <div>
 
     <main className="flex rounded-lg min-h-[50vh] w-[80vw] mx-auto mt-5 bg-slate-50  items-start justify-between p-24 gap-4">
       <div className="flex flex-col items-start justify-between gap-6">
@@ -45,6 +45,6 @@ export default function Home() {
             />
       </div>
     </main>
-    </>
+    </div>
   );
 }
