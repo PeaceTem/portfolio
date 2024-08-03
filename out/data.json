@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/DASCA.jfif",
+      "name": "AI-Powered Healthcare System",
+      "description": "This project involves developing an advanced AI-powered healthcare system aimed at improving patient diagnostics and treatment plans. The system integrates machine learning algorithms to analyze patient data and provide accurate predictions and personalized healthcare recommendations."
+    },
+    {
+      "id": 2,
+      "image": "/design2.jpg",
+      "name": "Smart Home Automation",
+      "description": "The Smart Home Automation project focuses on creating an intelligent system that allows homeowners to control various home devices remotely. The system utilizes IoT devices, machine learning, and voice recognition technology to provide a seamless and convenient home automation experience."
+    },
+    {
+      "id": 3,
+      "image": "/design7.jpg",
+      "name": "Sustainable Urban Development",
+      "description": "This project is centered around designing and implementing sustainable urban development practices. It aims to reduce the environmental impact of urban areas by integrating green building materials, renewable energy sources, and efficient waste management systems."
+    },
+    {
+      "id": 4,
+      "image": "/design3.png",
+      "name": "Blockchain-Based Voting System",
+      "description": "The Blockchain-Based Voting System project seeks to create a secure and transparent voting system using blockchain technology. The system ensures the integrity of the voting process by providing an immutable and tamper-proof ledger of votes, thus increasing public trust in the electoral process."
+    },
+    {
+      "id": 5,
+      "image": "/design4.jpg",
+      "name": "Augmented Reality Learning Platform",
+      "description": "This project involves developing an augmented reality (AR) learning platform designed to enhance the educational experience. The platform uses AR technology to create interactive and immersive learning environments, making complex subjects more engaging and easier to understand for students."
+    },
+    {
+      "id": 6,
+      "image": "/design5.jpg",
+      "name": "Renewable Energy Management System",
+      "description": "The Renewable Energy Management System project aims to optimize the use and distribution of renewable energy resources. The system uses smart grid technology and real-time data analytics to manage energy production and consumption, ensuring efficient and sustainable energy utilization."
+    },
+    {
+      "id": 7,
+      "image": "/design6.jpg",
+      "name": "Advanced Cybersecurity Solutions",
+      "description": "This project focuses on developing advanced cybersecurity solutions to protect against modern cyber threats. It involves creating sophisticated threat detection algorithms, implementing robust encryption methods, and designing secure network architectures to safeguard sensitive data."
+    },
+    {
+      "id": 8,
+      "image": "/design7.jpg",
+      "name": "Personal Finance Management App",
+      "description": "The Personal Finance Management App project aims to help individuals manage their finances effectively. The app provides tools for budgeting, expense tracking, and financial planning, along with personalized financial advice based on user data to promote better financial habits."
+    },
+    {
+      "id": 9,
+      "image": "/design9.jpg",
+      "name": "AI-Driven Customer Support Chatbot",
+      "description": "This project involves creating an AI-driven customer support chatbot that can handle a wide range of customer queries. The chatbot uses natural language processing (NLP) and machine learning to understand and respond to customer inquiries, providing quick and accurate support."
+    },
+    {
+      "id": 10,
+      "image": "/design2.jpg",
+      "name": "Smart Agriculture System",
+      "description": "The Smart Agriculture System project focuses on leveraging technology to improve agricultural practices. The system uses IoT sensors, drone technology, and data analytics to monitor crop health, optimize irrigation, and increase overall farm productivity, promoting sustainable agriculture."
+    }
+  ]
+  
